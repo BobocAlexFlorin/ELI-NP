@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23835274.svg)](https://doi.org/10.5281/zenodo.23835274)
+
 Overview
 
 This repository contains the computational code, simulation scripts, and diagnostic notebooks for simulating the 1+1-dimensional Schwinger model (Quantum Electrodynamics) on a quantum processor emulator. The project investigates real-time vacuum decay and electron-positron pair production under extreme laser electric field quenches, utilizing parameters chosen to align with high-field physics regimes studied at facilities like the Extreme Light Infrastructure - Nuclear Physics (ELI-NP) project.
